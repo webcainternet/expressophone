@@ -35,7 +35,7 @@ switch ($_SERVER['SERVER_ADDR'])
 		// DB
 		define('DB_DRIVER', 'mysql');
 		define('DB_HOSTNAME', 'localhost');
-		define('DB_USERNAME', 'exp12qw12qw');
+		define('DB_USERNAME', 'expressophone');
 		define('DB_PASSWORD', 'exp12qw12qw');
 		define('DB_DATABASE', 'expressophone');
 		define('DB_PREFIX', 'oc_');
